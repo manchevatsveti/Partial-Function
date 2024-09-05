@@ -1,7 +1,7 @@
 
 # Partial Function System
 
-**Course**: Object-Oriented Programming Practicum  
+**Course**: Object-Oriented Programming   
 **Program**: Software Engineering, Faculty of Mathematics and Informatics (FMI)  
 **Year**: 2023/2024
 
